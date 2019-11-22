@@ -7,5 +7,5 @@ This was a challenge that's on FreeCodeCamp.org at https://learn.freecodecamp.or
 
 You can use [codepen.io]() as your editor 
 
-## note:
+## Note:
    the code files are zipped so you gotta download and use as you wish
